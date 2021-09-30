@@ -11,7 +11,7 @@ public class AsistenteVirtualBasico {
     static String [] meses= {"EN","FE","MA","AB","MY","JN","JL","AG","SE","OC","NO","DI"};
 
 
-    static String[] correos = {"trabajador1@BioAgro.pe","trabajador2@BioAgro.pe","trabajador3@BioAgro.pe","trabajador4@BioAgro.pe","trabajador5@BioAgro.pe"};
+    static String[] correos = {"trabajador1@BioAgro.pe","trabajador2@BioAgro.pe","trabajador3@BioAgro.pe","trabajador4@BioAgro.pe","jefeSupervisor@BioAgro.pe"};
 
     public static void main(String[] args) {
         System.out.println("__________BIOAGRO________");
